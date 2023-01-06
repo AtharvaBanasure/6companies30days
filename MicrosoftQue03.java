@@ -1,5 +1,5 @@
 import java.util.*;
-class MicrosoftQue3 {
+class MicrosoftQue03 {
     public static String getHint(String secret, String guess) {
         int n=secret.length();
         int count=0;

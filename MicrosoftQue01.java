@@ -1,5 +1,5 @@
 import java.util.*;
-class MicrosoftQue1 {
+class MicrosoftQue01 {
     public static int evalRPN(String[] tokens) {
         Stack<Integer>stk=new Stack<>();
         for(int i=0;i<tokens.length;i++){
